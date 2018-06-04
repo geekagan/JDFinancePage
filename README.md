@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## 项目介绍
 
-You can use the [editor on GitHub](https://github.com/Geek-JCY/JDFinancePage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是一个高仿京东金融的项目，在熟悉了原项目的构造布局之后，进行的页面重构。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 技术亮点
+`组件化设计` 和 `css模块化`+`组件化`的设计思想
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 技术应用
 
 ```markdown
-Syntax highlighted code block
+### 开发环境
+	Node
 
-# Header 1
-## Header 2
-### Header 3
+### 开发工具
+	Visual Studio
 
-- Bulleted
-- List
+### 构建工具
+	webpack
 
-1. Numbered
-2. List
+### 基础技术框架
+	vue + vue-router + sass
 
-**Bold** and _Italic_ and `Code` text
+### 页面自适应
+	rem + hotcss
 
-[Link](url) and ![Image](src)
+### 代码格式化
+	eslint + vue-style-loader
+
+### 版本控制器
+	git
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 项目展示
+[仿京东金融](https://geek-jcy.github.io/JDFinancePage/dist/index.html#/)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Geek-JCY/JDFinancePage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
