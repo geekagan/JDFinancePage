@@ -39,6 +39,6 @@
 
 ### 项目展示
 
-<a href="https://geek-jcy.github.io/JDFinancePage/dist/index.html#/" target="_blank">[仿京东金融]</a>
+<a href="https://geek-jcy.github.io/JDFinancePage/dist/index.html" target="_blank">仿京东金融</a>
 
 
