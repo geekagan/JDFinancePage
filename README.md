@@ -41,4 +41,9 @@
 
 <a href="https://geek-jcy.github.io/JDFinancePage/dist/index.html" target="_blank">仿京东金融</a>
 
+### 二维码
+
+![仿京东金融项目的二维码](images/QR-code.png)
+    二维码
+
 
