@@ -24,6 +24,9 @@
 
     vue + vue-router + sass
 
+### 应用插件
+    vue-awesome-swiper
+
 ### 页面自适应
 
     rem + hotcss
@@ -44,6 +47,5 @@
 ### 二维码
 
 ![仿京东金融项目的二维码](images/QR-code.png)
-    二维码
 
 
