@@ -10,31 +10,31 @@
 ```markdown
 ### 开发环境
 
-  Node
+    Node
 
 ### 开发工具
 
-  Visual Studio
+    Visual Studio
 
 ### 构建工具
 
-  webpack
+    webpack
 
 ### 基础技术框架
 
-  vue + vue-router + sass
+    vue + vue-router + sass
 
 ### 页面自适应
 
-  rem + hotcss
+    rem + hotcss
 
 ### 代码格式化
 
-  eslint + vue-style-loader
+    eslint + vue-style-loader
 
 ### 版本控制器
 
-  git
+    git
 ```
 
 ### 项目展示
