@@ -46,6 +46,6 @@
 
 ### 二维码
 
-![仿京东金融项目的二维码](images/QR-code.png)
+![仿京东金融项目的二维码](/images/QR-code.png)
 
 
