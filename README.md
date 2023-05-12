@@ -42,7 +42,7 @@
 
 ### 项目展示
 
-<a href="https://jichengye.github.io/JDFinancePage/dist/index.html" target="_blank">仿京东金融</a>
+<a href="https://geekagan.github.io/JDFinancePage/dist/index.html" target="_blank">仿京东金融</a>
 
 ### 二维码
 
